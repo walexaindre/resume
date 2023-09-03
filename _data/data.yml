@@ -199,24 +199,22 @@ education:
 
   items:
     - institution: University of Puerto Rico
-      link: '#'
+      link: 'https://www.uprm.edu/math/academics/graduate-programs/scientific-computing-mathematics-program/'
       date: 2022 - 2024
       major: Scientific Computing
       degree: Master
       description: |
-        Additional information for this institution.
-        + First
-        + Second
-
+        + Emphasis on numerical computations
+        + Algorithm analysis
+        + 3.5/4.0
     - institution: University of Cartagena
       link: '#'
       date: 2015 - 2019
       major: Mathematics
       degree: Bachelor
       description: |
-        Additional information for this institution.
-        + First
-        + Second
+        + Emphasis on algebra
+        + 4.24/5.00
 
 certificate:
   show: false
