@@ -346,15 +346,10 @@ interest:
     Most of my interest are nearest to program low level code or rutines with efficiency in mind. Sometimes i know that can hurt my progress on develop functional applications to people.
   items:
     - item: Programming in Julia
-      link: 
     - item: RNGs and Fortune Algorithm
-      link:
     - item: Game Engines and ECS
-      link:
     - item: Learn Zig
-      link:
     - item: Home server and Mersenne Prime searcher enthusiast.
-      link:
 
 evaluation:
   show: false
