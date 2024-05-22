@@ -83,9 +83,9 @@ profile:
   order: 1
   title: Profile
   description: |
-    I am an enthusiast of mathematics, programming with emphasis on optimization and parallelism on GPUs. I am mainly interested in CUDA, Julia and finite elements.
+    I am a mathematics enthusiast with a keen interest in programming, specifically focusing on optimization and parallelism on GPUs. My primary areas of interest include CUDA, Julia, and finite elements.
 
-    I am also interested in color theory from the computational point of view as well as in the construction of pseudo-random algorithms or hash functions with extremely high periods.
+    Additionally, I have a fascination with color theory from a computational perspective. I am also intrigued by the development of pseudo-random algorithms or hash functions that boast extremely long periods.
   
 experience:
   show: true
@@ -202,7 +202,7 @@ education:
       description: |
         + Emphasis on numerical computations
         + Algorithm analysis
-        + 3.5/4.0
+        + 3.44/4.0
     - institution: University of Cartagena
       link: '#'
       date: 2015 - 2019
