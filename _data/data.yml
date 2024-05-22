@@ -83,7 +83,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    I am a mathematics enthusiast with a keen interest in programming, specifically focusing on optimization and parallelism on GPUs. My primary areas of interest include CUDA, Julia, and finite elements.
+    I am a mathematics enthusiast with a keen interest in programming, specifically focusing on optimization and parallelism on GPUs. My primary areas of interest include CUDA, Julia, finite differences and finite elements.
 
     Additionally, I have a fascination with color theory from a computational perspective. I am also intrigued by the development of pseudo-random algorithms or hash functions that boast extremely long periods.
   
